@@ -2,12 +2,8 @@ body {
     background-color: #cccccc;
     margin: 0;
     font-family: Arial, sans-serif;
-}
-h1, h2, h3, h4, h5, h6 {
-    color: #007BFF
-}
 .header-claass {
-    background-color: #333;
+    background-color: #007BFF;
     color: white; 20px;
     text-align: center;
 }
